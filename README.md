@@ -74,3 +74,7 @@ The result was an **authored faction register**, not a phonetic accent filter or
 ## Current state
 
 A playable English build and later fixes are documented. A consolidated, distributable release is still parked. The final packaging plan changed during development, and public distribution has unresolved permission and dependency requirements. See [the dated status](STATUS.md) rather than treating this as a finished public release.
+
+## Credits and acknowledgements
+
+Thanks to **Larkin, Lacm+, AikidoPanda, iGriver, and the original Chaos Heart developers and contributors**. See [CREDITS.md](CREDITS.md) for the versioned roster, Fullrest/TESAll threads, community links and historical websites. The original mod belongs to its creators; this is a separate localisation effort.
