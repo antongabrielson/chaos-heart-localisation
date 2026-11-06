@@ -2,7 +2,7 @@
 
 **A working game-localisation pipeline, a faction-specific editorial voice, and the debugging needed to keep dialogue playable.**
 
-An independent project by Anton Gavrilenko, developed with AI coding and translation assistance. The goal was to play Russian 1C Morrowind with Chaos Heart in English while retaining the Russian release's game logic and the mod's behaviour.
+An independent project developed with AI coding and translation assistance. The goal was to play Russian 1C Morrowind with Chaos Heart in English while retaining the Russian release's game logic and the mod's behaviour.
 
 This repository documents the engineering and editorial work. It is a portfolio case study, not a downloadable modpack. It contains no game masters, game assets, original dialogue corpus or third-party mod files.
 
