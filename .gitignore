@@ -1,0 +1,9 @@
+*.esm
+*.esp
+*.bsa
+*.omwaddon
+*.omwsave
+.env*
+translations*.jsonl
+jobs*.json
+__pycache__/
